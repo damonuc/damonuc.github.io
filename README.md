@@ -10,6 +10,7 @@
 | --- | --- |
 | 首页介绍和联系方式 | `_pages/about.md` |
 | 研究标题、介绍、链接 | `_pages/research.md` |
+| TA 经历和教学培训 | `_pages/teaching.md` |
 | CV 页面预览和下载链接 | `_pages/cv.md` |
 | 下载的简历 PDF | `files/Jianbin_Chen_CV.pdf` |
 | 侧栏姓名、邮箱、简介 | `_config.yml` 中的 `author:` |
@@ -53,6 +54,15 @@ git push origin main
 
 ## 本次已清理
 
-多作者示例数据、JSON CV 数据及其独立模板和转换脚本、示例博客/论文/教学/报告/作品集、示例 PDF 和图片、地图演示和自动化、容器配置、上游反馈模板与教程页已删除。当前内容页面只有首页、Research、CV 和 404。
+多作者示例数据、JSON CV 数据及其独立模板和转换脚本、示例博客/论文/教学/报告/作品集、示例 PDF 和图片、地图演示和自动化、容器配置、上游反馈模板与教程页已删除。当前内容页面为首页、Research、Teaching、CV 和 404。
 
 中文维护说明不会作为网站页面发布。模板来源：https://github.com/academicpages/academicpages.github.io
+
+## 添加个人照片
+
+1. 选择本人照片，建议 JPG 或 PNG，裁成方形或接近方形。
+2. 将照片命名为 `profile.jpg`，放进 `images/`（如果是 PNG，用 `profile.png`，不要只改后缀）。
+3. 打开 `_config.yml`，在 `author:` 下找到 `# avatar: "profile.jpg"`，去掉开头的 `#` 和其后的一个空格，保留与 `name:` 相同的两空格缩进。如果是 PNG，填写 `profile.png`。
+4. 保存、提交、推送；部署后照片会出现在 About 和其他显示个人侧栏的页面左侧。
+
+未放入照片前保持该行注释，页面不会显示破损图片。Teaching 的具体课程、学校、学期与职责尚待补充；不要把 TA 自动表述为课程主讲教师。
