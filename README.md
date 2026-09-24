@@ -10,17 +10,19 @@
 | --- | --- |
 | 首页介绍和联系方式 | `_pages/about.md` |
 | 研究标题、介绍、链接 | `_pages/research.md` |
-| CV 网页文字 | `_pages/cv.md` |
+| CV 页面预览和下载链接 | `_pages/cv.md` |
 | 下载的简历 PDF | `files/Jianbin_Chen_CV.pdf` |
 | 侧栏姓名、邮箱、简介 | `_config.yml` 中的 `author:` |
 | 顶部导航 | `_data/navigation.yml` |
 | 新照片 | 放入 `images/`，然后在 `author:` 下设置 `avatar: "照片文件名.jpg"` |
 
-首页正文邮箱与侧栏邮箱是两个位置；修改邮箱时一起检查。CV 网页与下载的 PDF 也是两份独立内容。
+首页正文邮箱与侧栏邮箱是两个位置；修改邮箱时一起检查。CV 页面直接预览下载链接所指向的同一份 PDF，不再单独维护文字版履历。
 
 ## 更新新简历
 
-把新 PDF 命名为 `Jianbin_Chen_CV.pdf`，放入 `files/` 替换旧版，不需要改下载链接。
+把新 PDF 命名为 `Jianbin_Chen_CV.pdf`，放入 `files/` 替换旧版，不需要改预览或下载链接。推送并部署完成后，网页预览和下载都会更新。
+
+如果使用不同文件名，请修改 `_pages/cv.md` 中 `assign cv_url` 那一行的路径；预览与两个链接共用这一个设置。手机无法显示内嵌 PDF 时，可点击新窗口打开链接。
 
 ## 修改文字
 
