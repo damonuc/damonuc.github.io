@@ -1,11 +1,7 @@
 main:
   - title: "About"
-    url: /#about
+    url: /
   - title: "Research"
-    url: /#research
-  - title: "Education"
-    url: /#education
+    url: /research/
   - title: "CV"
-    url: /files/Jianbin_Chen_CV.pdf
-  - title: "Contact"
-    url: /#contact
+    url: /cv/

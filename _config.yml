@@ -129,7 +129,6 @@ exclude:
   - "docker-compose.yaml"
   - "_pages/markdown.md"
   - "_pages/page-archive.html"
-  - "_pages/cv.md"
   - "_pages/talkmap.html"
   - "_pages/year-archive.html"
   - "_pages/cv-json.md"
