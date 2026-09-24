@@ -11,7 +11,7 @@ author_profile: true
 
 I develop a structured mixture density network to distinguish the roles of microeconomic and macroeconomic factors in tail-risk pricing, and compare its performance with alternative models.
 
-[Code on GitHub](https://github.com/damonuc/PricingTailRisk_MDN)
+<!-- [Code on GitHub](https://github.com/damonuc/PricingTailRisk_MDN) -->
 
 ## Working Papers
 
@@ -19,13 +19,13 @@ I develop a structured mixture density network to distinguish the roles of micro
 
 I compare large language models and sentence embeddings for selecting comparable firms, and examine the portfolio performance of the resulting investment screens.
 
-[Code on GitHub](https://github.com/damonuc/YC_Startup)
+<!-- [Code on GitHub](https://github.com/damonuc/YC_Startup) -->
 
 ### Predicting Net Income with Deep Learning: A Financial Forecasting Approach
 
 I study how network depth and model averaging affect net-income prediction, and explore the relationship between forecast accuracy and portfolio returns.
 
-[Code on GitHub](https://github.com/damonuc/Predict_NI)
+<!-- [Code on GitHub](https://github.com/damonuc/Predict_NI) -->
 
 ## Publication
 

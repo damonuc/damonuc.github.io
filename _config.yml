@@ -24,7 +24,7 @@ author:
   name: "Jianbin Chen"
   bio: "Ph.D. Student in Economics"
   employer: "University of California, Riverside"
-  email: "jianbinchen1991@gmail.com"
+  email: "jianbinDC@gmail.com"
   github: "damonuc"
   linkedin: "JianbinChen"
 
@@ -112,37 +112,7 @@ include:
   - _pages
   - files
 exclude:
-  - "_posts"
-  - "_drafts"
-  - "_portfolio"
-  - "_publications"
-  - "_talks"
-  - "_teaching"
-  - "talkmap"
   - "talkmap.html"
-  - "talkmap.ipynb"
-  - "talkmap.py"
-  - "talkmap_out.ipynb"
-  - "markdown_generator"
-  - "scripts"
-  - "CONTRIBUTING.md"
-  - "docker-compose.yaml"
-  - "_pages/markdown.md"
-  - "_pages/page-archive.html"
-  - "_pages/talkmap.html"
-  - "_pages/year-archive.html"
-  - "_pages/cv-json.md"
-  - "_pages/tag-archive.html"
-  - "_pages/category-archive.html"
-  - "_pages/terms.md"
-  - "_pages/non-menu-page.md"
-  - "_pages/teaching.html"
-  - "_pages/talks.html"
-  - "_pages/archive-layout-with-content.md"
-  - "_pages/collection-archive.html"
-  - "_pages/publications.html"
-  - "_pages/sitemap.md"
-  - "_pages/portfolio.html"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -156,7 +126,6 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
-  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -167,6 +136,7 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
   - tmp
   - vendor
 keep_files:
@@ -196,78 +166,14 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
-
-
-# These settings control how pages and collections are included in the site
+# Default layout for content pages.
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:

@@ -23,4 +23,4 @@ I am seeking full-time opportunities in data science and related research roles.
 Department of Economics  
 University of California, Riverside
 
-Email: [jianbinchen1991@gmail.com](mailto:jianbinchen1991@gmail.com)
+Email: [jianbinDC@gmail.com](mailto:jianbinDC@gmail.com)
