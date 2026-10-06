@@ -4,6 +4,12 @@
 
 网站沿用 Academic Pages 模板。此仓库是线上网站的源文件。
 
+## 保存
+  cd /Users/jianbinchen/NonSync/GitHub/Research/damonuc.github.io
+  git add . 
+  git commit -m "第一个draft版本"
+  git push origin main
+
 ## 日常修改入口
 
 | 内容 | 文件 |
