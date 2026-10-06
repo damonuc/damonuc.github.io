@@ -15,3 +15,7 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <!-- end custom head snippets -->
+
+{% if page.permalink == '/teaching/' %}
+<link rel="stylesheet" href="{{ '/assets/css/teaching.css' | relative_url }}">
+{% endif %}
