@@ -18,12 +18,6 @@ I am seeking full-time opportunities in data science and related research roles.
 
 [Research]({{ '/research/' | relative_url }}) · [Curriculum vitae]({{ '/cv/' | relative_url }})
 
-<p>
-  <a href="https://credentials.cfainstitute.org/b7158296-dea0-4e0b-80fd-93eb689313e3" target="_blank" rel="noopener" aria-label="Verify Jianbin Chen’s CFA charterholder credential (opens in a new tab)">
-    <img src="{{ '/images/cfa-charterholder.png' | relative_url }}" alt="CFA Institute CFA Charterholder badge issued to Jianbin Chen, CFA" width="180" height="180" style="display: block; max-width: 100%; height: auto;" loading="lazy">
-  </a>
-</p>
-
 ## Education
 
 - **Ph.D. in Economics**, University of California, Riverside — expected 2027. Committee: Marcelle Chauvet (Chair), Dongwon Lee, and Tae-Hwy Lee.
@@ -47,7 +41,7 @@ I am seeking full-time opportunities in data science and related research roles.
 
 ## Professional Qualifications
 
-- **CFA® charterholder** — [verify credential](https://credentials.cfainstitute.org/b7158296-dea0-4e0b-80fd-93eb689313e3).
+- **CFA® charterholder**.
 - **Chinese Institute of Certified Public Accountants (CICPA)** — Non-Practicing Member.
 - **Legal Professional Qualification Certificate**, China — 2016.
 
