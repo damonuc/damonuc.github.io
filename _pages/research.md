@@ -29,4 +29,14 @@ author_profile: true
 
 ## Publication
 
-**CEO Turnover and Stock Price Reactions: Evidence from China.** *South China Finance*, 2014(07), pp. 60–68.
+**CEO Turnover and Stock Price Reactions: Evidence from China** (with Ke Peng). *South China Finance*, 2014(07), pp. 60–68.
+
+This paper examines short-term stock price reactions to CEO turnover in Chinese listed companies using event study methodology and multivariate regression. The results provide evidence of information leakage and identify firm performance, dividend payments, and information asymmetry as factors associated with abnormal returns.
+
+## Presentations
+
+- Econometrics Seminar, University of California, Riverside — March 2026.
+
+## Referee Service
+
+- *Journal of Business Cycle Research*.

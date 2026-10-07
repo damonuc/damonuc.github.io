@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% assign cv_url = '/files/Jianbin_Chen_CV.pdf' | relative_url %}
+{% assign cv_version = site.time | date: '%Y%m%d%H%M%S' %}
+{% assign cv_url = '/files/Jianbin_Chen_CV.pdf' | relative_url | append: '?v=' | append: cv_version %}
+
+Academic curriculum vitae. Updated October 2026.
 
 <p>
   <a href="{{ cv_url }}" target="_blank" rel="noopener">Open PDF in a new tab</a>

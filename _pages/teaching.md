@@ -7,6 +7,8 @@ author_profile: true
 
 <div class="teaching-content" markdown="1">
 
+All teaching appointments listed below were at the University of California, Riverside.
+
 ## Instructor
 
 ### ECON 101 — Statistics for Economics
@@ -19,6 +21,8 @@ An introduction to statistical methods for economics, including economic data an
 ## Teaching Assistant
 
 ### ECON 101 — Statistics for Economics
+
+**10 quarters, 2022–2026 (including the current Fall 2026 appointment).**
 
 Terms: Fall 2022; Winter, Spring, and Fall 2023; Spring and Fall 2024; Winter and Fall 2025; Winter and Fall 2026.
 {: .teaching-term}
