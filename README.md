@@ -72,3 +72,9 @@ git push origin main
 4. 保存、提交、推送；部署后照片会出现在 About 和其他显示个人侧栏的页面左侧。
 
 未放入照片前保持该行注释，页面不会显示破损图片。Teaching 的具体课程、学校、学期与职责尚待补充；不要把 TA 自动表述为课程主讲教师。
+
+## 更新 Job Market Paper
+
+论文固定链接：https://damonuc.github.io/files/Jianbin_Chen_JMP.pdf
+
+将最新版 `PricingTailRisk_MDN/overleaf/paper.pdf` 复制到本仓库 `files/Jianbin_Chen_JMP.pdf`，替换同名文件，然后自行提交、推送。仅修改论文源目录不会自动更新网站。若标题或摘要变化，也需更新 `_pages/research.md`。不要在固定文件名中加入日期，以便旧版论文中的链接继续指向最新版。
