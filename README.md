@@ -5,6 +5,12 @@
 网站沿用 Academic Pages 模板。此仓库是线上网站的源文件。
 
 ## 保存
+cd /Users/jianbinchen/NonSync/GitHub/Research/damonuc.github.io
+cp ../PricingTailRisk_MDN/overleaf/paper.pdf files/Jianbin_Chen_JMP.pdf
+git add . 
+git commit -m "Update job market paper"
+git push origin main
+
   cd /Users/jianbinchen/NonSync/GitHub/Research/damonuc.github.io
   git add . 
   git commit -m "第一个draft版本"
