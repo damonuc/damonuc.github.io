@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Economics at the University of California, Riverside, specializing in machine learning in asset pricing. I expect to complete my Ph.D. in June 2027. I also hold an M.S. in Computer Science from UC Riverside, awarded in June 2026.
+I am a Ph.D. Candidate in Economics at the University of California, Riverside, specializing in machine learning in asset pricing. I expect to complete my Ph.D. in June 2027. I also hold an M.S. in Computer Science from UC Riverside, awarded in June 2026.
 
 My research interests lie at the intersection of **econometrics, machine learning, causal inference and financial economics**. My current work studies tail-risk pricing using structured mixture density networks, comparable-firm selection with language models, and deep learning for financial forecasting.
 
