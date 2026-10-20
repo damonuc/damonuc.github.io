@@ -11,11 +11,6 @@ git add .
 git commit -m "Update job market paper"
 git push origin main
 
-  cd /Users/jianbinchen/NonSync/GitHub/Research/damonuc.github.io
-  git add . 
-  git commit -m "第一个draft版本"
-  git push origin main
-
 ## 日常修改入口
 
 | 内容 | 文件 |
