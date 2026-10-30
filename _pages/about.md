@@ -14,7 +14,7 @@ My research interests lie at the intersection of **econometrics, machine learnin
 
 Before my doctoral studies, I worked in investment banking at Guosen Securities and Dongxing Securities, and as a Senior Associate in audit at PwC. I am also a CFA® charterholder.
 
-I am seeking full-time opportunities in data science and related research roles.
+I am on the job market 2026-2027.
 
 [Research]({{ '/research/' | relative_url }}) · [Curriculum vitae]({{ '/cv/' | relative_url }})
 
