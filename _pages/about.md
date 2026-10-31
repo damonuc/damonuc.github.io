@@ -22,8 +22,8 @@ I am on the job market 2026-2027.
 
 - **Ph.D. in Economics**, University of California, Riverside — expected 2027. Committee: Marcelle Chauvet (Chair), Dongwon Lee, and Tae-Hwy Lee.
 - **M.S. in Computer Science**, University of California, Riverside — 2026.
-- **M.S. in Finance**, Harbin Institute of Technology — 2014.
-- **B.S. in Information and Computing Science**, Shenzhen University — 2012.
+- M.S. in Finance, Harbin Institute of Technology — 2014.
+- B.S. in Information and Computing Science, Shenzhen University — 2012.
 
 ## Professional Experience
 

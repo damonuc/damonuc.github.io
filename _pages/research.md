@@ -23,7 +23,7 @@ author_profile: true
 
 <!-- [Code on GitHub](https://github.com/damonuc/YC_Startup) -->
 
-### Financial Statements and the Predictability of Earnings Changes: Evidence from Neural Networks
+### Predicting Earnings Changes from Financial Statements with Neural Networks
 
 **Abstract.** This paper examines how much information about one-year-ahead earnings changes can be extracted from widely available financial statement line items and whether neural-network architecture affects the out-of-sample usefulness of that information. Using nearly 229,000 firm-year observations for North American public firms, I construct 98 features from the balance sheet, income statement, and statement of cash flows. Models are estimated using data from 1990–2016 and evaluated out of sample from 2017 onward. Deeper feedforward networks generally improve accuracy and AUC relative to shallower networks, although the gains level off at five to six layers. Standard normalization and dropout do not consistently improve performance. An ensemble combining networks of different depths attains approximately 65% accuracy and performs comparably to random forests and XGBoost. Predictive performance varies across industries and declines as the test period moves farther from the training sample, indicating economically important distribution shifts. Portfolio tests suggest that predicted earnings reversals contain economic information, but risk-adjusted performance is sensitive to portfolio construction. Overall, the findings document both the promise and the limits of using neural networks to extract forward-looking signals from standardized financial statements.
 

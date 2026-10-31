@@ -7,7 +7,8 @@
 ## 保存
 cd /Users/jianbinchen/NonSync/GitHub/Research/damonuc.github.io
 cp ../PricingTailRisk_MDN/overleaf/paper.pdf files/Jianbin_Chen_JMP.pdf
-cp "/Users/jianbinchen/My Drive/Job Market/Job for AI/Jianbin_Chen_Resume_academia.pdf" files/Jianbin_Chen_CV.pdf
+cp "/Users/jianbinchen/My Drive/Job Market/Job for AI/CV_academia.pdf" files/Jianbin_Chen_CV.pdf
+cp ../PricingTailRisk_MDN/overleaf/paper.pdf "/Users/jianbinchen/My Drive/Job Market/Job for AI/Job Market Paper.pdf"
 git add . 
 git commit -m "Update job market paper"
 git push origin main
